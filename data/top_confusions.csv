@@ -1,0 +1,9 @@
+count,true_class,predicted_class
+70,Thiazide Diuretic,Angiotensin 2 Receptor Blocker
+45,beta-Adrenergic Blocker,Angiotensin 2 Receptor Blocker
+11,Angiotensin 2 Receptor Blocker,Thiazide Diuretic
+10,Corticosteroid,Retinoid
+10,Corticosteroid,Nonsteroidal Anti-inflammatory Drug
+8,Nitroimidazole Antimicrobial,Retinoid
+7,beta-Adrenergic Blocker,Thiazide Diuretic
+7,Thiazide Diuretic,beta-Adrenergic Blocker

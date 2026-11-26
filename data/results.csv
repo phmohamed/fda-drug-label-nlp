@@ -1,0 +1,4 @@
+model,accuracy,macro_f1
+majority,0.071,0.013
+centroid,0.881,0.826
+softmax,0.81,0.702

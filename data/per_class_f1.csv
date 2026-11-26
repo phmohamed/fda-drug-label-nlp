@@ -1,0 +1,16 @@
+class,n_labels,n_drugs,f1
+beta-Adrenergic Blocker,56,7,0.12
+Angiotensin 2 Receptor Blocker,88,12,0.53
+Thiazide Diuretic,144,23,0.58
+Retinoid,60,11,0.73
+Nitroimidazole Antimicrobial,54,6,0.85
+Nucleoside Metabolic Inhibitor,52,10,0.87
+Nitrofuran Antibacterial,52,7,0.93
+Corticosteroid,368,42,0.93
+Anti-epileptic Agent,128,12,0.95
+Nonsteroidal Anti-inflammatory Drug,360,27,0.97
+Amide Local Anesthetic,75,15,0.97
+Benzodiazepine,172,13,0.97
+Atypical Antipsychotic,143,14,0.99
+Azole Antifungal,107,12,0.99
+Sulfonylurea,93,6,1.0
